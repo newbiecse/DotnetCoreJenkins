@@ -1,3 +1,5 @@
 .vs/
 DotnetCoreJenkins/obj/
 DotnetCoreJenkins/bin/
+DotnetCoreJenkins/DotnetCoreJenkins.csproj.user
+DotnetCoreJenkins/Properties/PublishProfiles/FolderProfile.pubxml.user
